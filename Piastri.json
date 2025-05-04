@@ -39,10 +39,10 @@
             "#222959"
         ],
         "BACKGROUND_MODIFIER_ACTIVE": [
-            "#2678d626"
+            "#DC8F65"
         ],
         "BACKGROUND_MODIFIER_HOVER": [
-            "#2678d626"
+            "#DC8F65"
         ],
         "BACKGROUND_MODIFIER_SELECTED": [
             "#2678d699"
@@ -51,7 +51,7 @@
             "#0a2848"
         ],
         "BACKGROUND_PRIMARY": [
-            "#061428"
+            "#333344"
         ],
         "BACKGROUND_SECONDARY": [
             "#0a1426"
