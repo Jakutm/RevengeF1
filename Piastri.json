@@ -27,13 +27,13 @@
             "#583204"
         ],
         "BACKGROUND_MOBILE_PRIMARY": [
-            "#333344"
+            "#1E1E2F"
         ],
         "BACKGROUND_MOBILE_SECONDARY": [
-            "#333344"
+            "#1E1E2F"
         ],
         "BACKGROUND_ACCENT": [
-            "#1E1E2F"  
+            "#333344"  
         ],
         "BACKGROUND_MODIFIER_ACCENT": [
             "#222959"
@@ -51,13 +51,13 @@
             "#0a2848"
         ],
         "BACKGROUND_PRIMARY": [
-            "#1E1E2F"
+            "#333344"
         ],
         "BACKGROUND_SECONDARY": [
-            "#1E1E2F"
+            "#333344"
         ],
         "BACKGROUND_SECONDARY_ALT": [
-            "#685f49"
+            "#333344"
         ],
         "BACKGROUND_TERTIARY": [
             "#04122e"
@@ -66,10 +66,10 @@
 	    "#102b48b3"
 	],
 	"BG_BASE_PRIMARY": [
-	    "#1E1E2F"
+	    "#333344"
 	],
 	"BG_SURFACE_OVERLAY_TMP": [
-            "#1E1E2F"
+            "#333344"
         ],
         "BUG_REPORTER_MODAL_SUBMITTING_BACKGROUND": [
             "#0a2848"
