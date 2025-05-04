@@ -138,7 +138,7 @@
             "#48290a"
         ],
 	"EMBED_BACKGROUND": [
-	    "#7b4f06"
+	    "#7b4f0640"
 	],
         "ELEVATION_STROKE": [
             "#48290a"
@@ -258,7 +258,7 @@
             "#fb4934"
         ],
 	"TYPING_INDICATOR_BG": [
-	    "#00000095"
+	    "#00000075"
 	],
         "TEXTBOX_MARKDOWN_SYNTAX": [
             "#784607"
