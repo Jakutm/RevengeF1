@@ -27,10 +27,10 @@
             "#583204"
         ],
         "BACKGROUND_MOBILE_PRIMARY": [
-            "#1e1e2f"
+            "#1e1e2D"
         ],
         "BACKGROUND_MOBILE_SECONDARY": [
-            "#1e1e2f"
+            "#1e1e2D"
         ],
         "BACKGROUND_ACCENT": [
             "#D67E19"  
@@ -51,10 +51,10 @@
             "#0a2848"
         ],
         "BACKGROUND_PRIMARY": [
-            "#1e1e2F"
+            "#1E1E2D"
         ],
         "BACKGROUND_SECONDARY": [
-            "#1e1e2F"
+            "#1E1E2D"
         ],
         "BACKGROUND_SECONDARY_ALT": [
             "#D67E19"
@@ -75,10 +75,10 @@
             "#0a2848"
         ],
 	"CARD_PRIMARY_BG": [
-	    "#1E1E2F"
+	    "#1E1E2D"
 	],
 	"CARD_SECONDARY_BG": [
-	    "#1E1E2F"
+	    "#1E1E2D"
 	],
         "CHANNELS_DEFAULT": [
             "#575a68"			
@@ -222,7 +222,7 @@
 	    "#111423"
 	],
 	"REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
-	    "#1E1E2F"
+	    "#1E1E2D"
 	],
 	"REDESIGN_BUTTON_SECONDARY_BORDER": [
 	    "#222959"
