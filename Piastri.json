@@ -33,7 +33,7 @@
             "#333344"
         ],
         "BACKGROUND_ACCENT": [
-            "#333344"  
+            "#1E1E2F"  
         ],
         "BACKGROUND_MODIFIER_ACCENT": [
             "#222959"
@@ -51,10 +51,10 @@
             "#0a2848"
         ],
         "BACKGROUND_PRIMARY": [
-            "#333344"
+            "#1E1E2F"
         ],
         "BACKGROUND_SECONDARY": [
-            "#333344"
+            "#1E1E2F"
         ],
         "BACKGROUND_SECONDARY_ALT": [
             "#685f49"
