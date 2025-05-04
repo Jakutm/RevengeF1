@@ -198,7 +198,7 @@
             "#102b47"
         ],
         "INTERACTIVE_ACTIVE": [
-            "#2780E6"
+            "#FF8000"
         ],
         "INTERACTIVE_HOVER": [
             "#333344"
@@ -207,7 +207,7 @@
             "#3f414c"
         ],
         "INTERACTIVE_NORMAL": [
-            "#FF8000"
+            "#7e3f00"
         ],
         "LOGO_PRIMARY": [
             "#83a598"
