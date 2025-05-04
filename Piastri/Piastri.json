@@ -90,7 +90,7 @@
             "transparent"
         ],
 	"CHAT_SWIPE_TO_REPLY_BACKGROUND": [
-	    "#0f1428"
+	    "#111122"
 	],
         "CHANNEL_TEXT_AREA_PLACEHOLDER":  [
             "#81b6ef"
@@ -138,13 +138,13 @@
             "#48290a"
         ],
 	"EMBED_BACKGROUND": [
-	    "#031d30b3"
+	    "#7b4f06"
 	],
         "ELEVATION_STROKE": [
             "#48290a"
         ],
 	"EXPRESSION_PICKER_BG": [
-	    "#111423"
+	    "#b28d63"
 	],
         "FOCUS_PRIMARY": [
             "#48290a"
