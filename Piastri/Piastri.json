@@ -15,7 +15,7 @@
             "#fb4934"
         ],
         "BACKGROUND_FLOATING": [
-            "#4c2803"
+            "#55557770"
         ],
         "BACKGROUND_MENTIONED": [
             "#d39a5f30"
@@ -195,7 +195,7 @@
             "#dcddde"
         ],
         "INPUT_BACKGROUND": [
-            "#4c2803"
+            "#55557770"
         ],
         "INTERACTIVE_ACTIVE": [
             "#FF8000"
@@ -339,12 +339,12 @@
         "version": 0,
         "customOverlays": true,
         "icons": {
-            "ic_mic_neutral": "#4c2803",
-            "ic_mic_muted_neutral": "#4c2803",
-            "ic_soundboard":"#4c2803",
-            "ic_soundboard_muted": "#4c2803",
-            "ic_video": "#4c2803",
-            "ic_video_disabled": "#4c2803"
+            "ic_mic_neutral": "#55557770",
+            "ic_mic_muted_neutral": "#55557770",
+            "ic_soundboard":"#55557770",
+            "ic_soundboard_muted": "#55557770",
+            "ic_video": "#55557770",
+            "ic_video_disabled": "#55557770"
         }
     },
     "spec": 2
