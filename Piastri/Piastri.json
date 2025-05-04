@@ -84,7 +84,7 @@
             "#575a68"			
         ],
         "CHANNEL_ICON": [
-            "#e68f27"
+            "#e68f25"
         ],
         "CHAT_BACKGROUND": [
             "transparent"
@@ -292,7 +292,7 @@
         "PRIMARY_200": "#7eb3f0",
         "PRIMARY_230": "#7eb3f0",
         "PRIMARY_300": "#3789E6",
-        "PRIMARY_360": "#2780E6",
+        "PRIMARY_360": "#f1bc7c",
         "PRIMARY_400": "#0f4480",
         "PRIMARY_460": "#061428",
         "PRIMARY_500": "#114d91",
@@ -319,14 +319,14 @@
         "BRAND_230": "#ffffff",
         "BRAND_260": "#86b4ea",
         "BRAND_360": "#4b96e7",
-        "BRAND_500": "#2780E6",
+        "BRAND_500": "#f1bc7c",
         "BRAND_560": "#3789E6",
-        "RED_400": "#2780E6",
-        "RED_430": "#2780E6",
-        "RED_460": "#2780E6",
+        "RED_400": "#f1bc7c",
+        "RED_430": "#f1bc7c",
+        "RED_460": "#f1bc7c",
         "GREEN_360": "#689d6a",
         "WHITE_500": "#dcddde",
-        "YELLOW_300": "#2780E6",
+        "YELLOW_300": "#f1bc7c",
 	"PLUM_20": "#111423",
 	"PLUM_16": "#111533",
 	"PLUM_22": "#0f1428"
