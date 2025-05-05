@@ -63,7 +63,7 @@
             "#333344"
         ],
 	"BG_BACKDROP": [
-	    "#1E1E2F30"
+	    "#444466"
 	],
 	"BG_BASE_PRIMARY": [
 	    "#333344"
@@ -222,7 +222,7 @@
             "#48290a"
         ],
 	"PANEL_BG": [
-	    "#1E1E2F30"
+	    "#444466"
 	],
 	"REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
 	    "#333344"
