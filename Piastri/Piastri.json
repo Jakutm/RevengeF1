@@ -63,7 +63,7 @@
             "#333344"
         ],
 	"BG_BACKDROP": [
-	    "#44446650"
+	    "#1E1E2F"
 	],
 	"BG_BASE_PRIMARY": [
 	    "#333344"
@@ -198,7 +198,7 @@
             "#dcddde"
         ],
         "INPUT_BACKGROUND": [
-            "#555577"
+            "#333344"
         ],
         "INTERACTIVE_ACTIVE": [
             "#FF8000"
