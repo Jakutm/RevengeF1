@@ -342,11 +342,11 @@
         "version": 0,
         "customOverlays": true,
         "icons": {
-            "ic_mic_neutral": "#55557770",
+            "ic_mic_neutral": "#e69e47",
             "ic_mic_muted_neutral": "#55557770",
-            "ic_soundboard":"#55557770",
+            "ic_soundboard":"#e69e47",
             "ic_soundboard_muted": "#55557770",
-            "ic_video": "#55557770",
+            "ic_video": "#e69e47",
             "ic_video_disabled": "#55557770"
         }
     },
