@@ -255,7 +255,7 @@
             "#83a598"
         ],
         "STATUS_POSITIVE_BACKGROUND": [
-            "#689d6a"
+            "#e69e47"
         ],
         "STATUS_POSITIVE_TEXT": [
             "#dcddde"
@@ -288,7 +288,7 @@
             "#FFFFFF"
         ],
         "TEXT_POSITIVE": [
-            "#689d6a"
+            "#e69e47"
         ],
         "TEXT_WARNING": [
             "#fb4934"
