@@ -68,6 +68,9 @@
 	"BG_BASE_PRIMARY": [
 	    "#333344"
 	],
+ "BG_BASE_SECONDARY": [
+	    "#333344"
+	],
 	"BG_SURFACE_OVERLAY_TMP": [
             "#333344"
         ],
