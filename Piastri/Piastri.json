@@ -337,8 +337,8 @@
         "WHITE_500": "#dcddde",
         "YELLOW_300": "#f4ff9b",
 	"PLUM_20": "#333344",
-	"PLUM_16": "#111533",
-	"PLUM_22": "#0f1428"
+	"PLUM_16": "#333344",
+	"PLUM_22": "#333344"
     },
     "background": {
         "url": "https://cdn.hyrule.pics/8de2d5286.jpeg",
