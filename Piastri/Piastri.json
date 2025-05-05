@@ -174,7 +174,7 @@
             "#48290a"
         ],
         "INFO_HELP_FOREGROUND": [
-            "#071e36"
+            "#e69e47"
         ],
         "INFO_HELP_TEXT": [
             "#dcddde"
@@ -183,7 +183,7 @@
             "#48290a"
         ],
         "INFO_POSITIVE_FOREGROUND": [
-            "#071e36"
+            "#e69e47"
         ],
         "INFO_POSITIVE_TEXT": [
             "#dcddde"
@@ -192,7 +192,7 @@
             "#48290a"
         ],
         "INFO_WARNING_FOREGROUND": [
-            "#071e36"
+            "#e69e47"
         ],
         "INFO_WARNING_TEXT": [
             "#dcddde"
