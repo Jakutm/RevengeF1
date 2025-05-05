@@ -63,7 +63,7 @@
             "#333344"
         ],
 	"BG_BACKDROP": [
-	    "#1E1E2F"
+	    "#1E1E2F30"
 	],
 	"BG_BASE_PRIMARY": [
 	    "#333344"
@@ -204,7 +204,7 @@
             "#dcddde"
         ],
         "INPUT_BACKGROUND": [
-            "#333344"
+            "#33334430"
         ],
         "INTERACTIVE_ACTIVE": [
             "#FF8000"
@@ -228,7 +228,7 @@
             "#48290a"
         ],
 	"PANEL_BG": [
-	    "#1E1E2F"
+	    "#1E1E2F20"
 	],
 	"REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
 	    "#333344"
