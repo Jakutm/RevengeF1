@@ -69,16 +69,16 @@
 	    "#333344"
 	],
  "BG_BASE_SECONDARY": [
-	    "#333344"
+	    "#1E1E2F"
 	],
 	"BG_SURFACE_OVERLAY_TMP": [
-            "#333344"
+            "#1E1E2F"
         ],
         "BUG_REPORTER_MODAL_SUBMITTING_BACKGROUND": [
             "#48290a"
         ],
 	"CARD_PRIMARY_BG": [
-	    "#333344"
+	    "#1E1E2F"
 	],
 	"CARD_SECONDARY_BG": [
 	    "#1E1E2F"
