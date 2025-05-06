@@ -63,7 +63,7 @@
             "#333344"
         ],
 	"BG_BACKDROP": [
-	    "#1E1E2F"
+	    "#1E1E2F60"
 	],
 	"BG_BASE_PRIMARY": [
 	    "#1E1E2F"
