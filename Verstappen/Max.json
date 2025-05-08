@@ -341,7 +341,7 @@
 	"PLUM_22": "#444455"
     },
     "background": {
-        "url": "https://github.com/Jakutm/RevengeF1/blob/main/Verstappen/Max.png",
+        "url": "Verstappen/Max.png",
 	"alpha": 0.2
     },
     "plus": {
