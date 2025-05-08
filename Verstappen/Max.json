@@ -340,8 +340,8 @@
 	"PLUM_16": "#444455",
 	"PLUM_22": "#444455"
     },
-    "background": {
-        "url": "./Max.png",
+    "background" :{
+        "url": "https://cdn.discordapp.com/attachments/1113893993722413066/1370080366949437520/eqmJn5m.png",
 	"alpha": 0.2
     },
     "plus": {
