@@ -341,7 +341,7 @@
 	"PLUM_22": "#444455"
     },
     "background": {
-        "background": "./Max.png",
+        "url": "./Max.png",
 	"alpha": 0.2
     },
     "plus": {
