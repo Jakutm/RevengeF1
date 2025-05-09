@@ -1,0 +1,12 @@
+{
+  "name": "M4X - MV33",
+  "description": "Simply lovely, Max. 4 in a row.",
+  "authors": [
+    {
+      "name": "PPFox :3",
+      "id": "505053442033844254"
+    }
+  ],
+  "spec": 2,
+  "semanticColors": {
+  "HEADER_PRIMARY": ["#C8102E", "FFFFFF", "003DA5"]
