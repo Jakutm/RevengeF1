@@ -6,9 +6,11 @@
       "name": "PPFox :3",
       "id": "505053442033844254"
     }
-  ],
-  "spec": 2,
-  "semanticColors": {
-  "HEADER_PRIMARY": ["#C8102E", "FFFFFF", "003DA5"]
+],
+// Wallpaper
+  "background": {
+  "blur": 0.9,
+    "url": "https://cdn.discordapp.com/attachments/1113893993722413066/1370080366949437520/eqmJn5m.png"
+    "alpha": 0.32
   }
 }
