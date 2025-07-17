@@ -1,0 +1,15 @@
+{
+  "name": "M4X - MV33",
+  "description": "Simply lovely, Max. 4 in a row.",
+  "authors": [
+    {
+      "name": "PPFox :3",
+      "id": "505053442033844254"
+   }
+],
+  "background": {
+  "blur": 0.9,
+    "url": "https://files.catbox.moe/ttd5c3.png",
+    "alpha": 0.35
+  }
+}
