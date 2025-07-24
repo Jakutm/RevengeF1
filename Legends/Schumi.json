@@ -19,7 +19,9 @@
 "BRAND_560": "111111"
 },
   "background": {
-    "url": "https://files.catbox.moe/mzeusa.png"
+"blur": 1.0,
+"url": "https://files.catbox.moe/mzeusa.png",
+"alpha": 1.0
   },
 "spec": 2
 }
