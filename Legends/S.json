@@ -33,7 +33,7 @@
 "TEXT_NORMAL": ["#FCFCFC"],
 "TEXT_PRIMARY": ["#FFFFFF"],
 "TEXT_LOW_CONTRAST": ["#FDFDFD"],
-"TEXT_MUTED": ["#FFFFFF"],
+"TEXT_MUTED": ["#AAAAAA"],
 "MESSAGE_REACTED_BACKGROUND": ["#11111140"],
 "TEXT_DANGER": ["#A6051A"],
 "THREAD_CHANNEL_SPINE": ["#FFFFFF"]
@@ -43,7 +43,7 @@
 "BRAND_260": "FFFFFF",
 "BRAND_360": "FFFFFF",
 "BRAND_500": "A6051A",
-"BRAND_560": "111111",
+"BRAND_560": "FFFFFF",
 "PLUM_1": "111111",
 "NEUTRAL_76": "111111",
 "PRIMARY_645": "111111",
@@ -53,7 +53,7 @@
 },
   "background": {
 "blur": 1.0,
-"url": "https://files.catbox.moe/p7ob8j.png",
+"url": "https://files.catbox.moe/6xaz8a.png",
 "alpha": 1.0
   },
 "spec": 2
