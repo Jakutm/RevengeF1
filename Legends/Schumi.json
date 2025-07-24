@@ -13,8 +13,8 @@
 "BACKGROUND_MODIFIER_ACTIVE": ["#111111"],
 "TEXT_WARNING": ["#fb4934"]
 },
- rawColors: {
-"BLUE_345": ["A6051A"]
+ "rawColors": {
+"BLUE_345": "A6051A"
   },
   "background": {
     "url": "https://files.catbox.moe/mzeusa.png"
