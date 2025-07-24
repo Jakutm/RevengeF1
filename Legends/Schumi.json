@@ -14,13 +14,13 @@
 "TEXT_WARNING": ["#fb4934"]
 },
  "rawColors": {
-"BLUE_345": "A6051A",
+"BLUE_345": "FFFFFF",
 "BRAND_260": "FFFFFF",
 "BRAND_560": "111111"
 },
   "background": {
 "blur": 1.0,
-"url": "https://files.catbox.moe/mzeusa.png",
+"url": "https://files.catbox.moe/p7ob8j.png",
 "alpha": 1.0
   },
 "spec": 2
