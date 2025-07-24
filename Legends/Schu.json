@@ -22,7 +22,7 @@
 "BG_SURFACE_RAISED": ["#333344"],
 "BG_MOD_FAINT": ["#333344"],
 "BG_MOD_STRONG": ["#FFEB00"],
-"CARD_PRIMARY_BG": ["#443333"],
+"CARD_PRIMARY_BG": ["#333344"],
 "CHANNEL_ICON": ["#FFEB00"],
 "DIVIDER_SUBTLE": ["#FFEB00"],
 "HEADER_SECONDARY": ["#FFEB00"],
@@ -37,7 +37,9 @@
  "rawColors": {
 "BLUE_345": "f87586",
 "BRAND_260": "FFFFFF",
-"BRAND_560": "111111"
+"BRAND_560": "111111",
+"PLUM_1": "FFEB00",
+"PLUM_18": "111111"
 },
   "background": {
 "blur": 1.0,
