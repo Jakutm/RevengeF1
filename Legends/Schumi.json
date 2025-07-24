@@ -1,0 +1,23 @@
+{
+    "name": "F1 Legends - Schumi",
+    "description": "#KeepFightingMichael",
+	"authors": [
+      {
+         "name": "PPFox (PlapPlapFox ;3)",
+         "id": "1104499859203031140"
+      }
+    ],
+"semanticColors": {
+"ANDROID_RIPPLE": ["#A6051A"],
+"BACKGROUND_ACCENT": ["#A6051A"],
+"BACKGROUND_MODIFIER_ACTIVE": ["#111111"],
+"TEXT_WARNING": ["#fb4934"]
+},
+ rawColors: {
+"BLUE_345": ["A6051A"]
+  },
+  "background": {
+    "url": "https://files.catbox.moe/mzeusa.png"
+  },
+"spec": 2
+}
