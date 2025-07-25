@@ -58,5 +58,6 @@
 "alpha": 1.0
   },
 "spec": 2,
-"plus": {"version": 0}
+"plus": {"version": 0,
+"iconpack": "md3"}
 }
