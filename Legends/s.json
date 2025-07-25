@@ -59,5 +59,6 @@
   },
 "spec": 2,
 "plus": {"version": 0,
-"iconpack": "md3"}
+"iconpack": "md3",
+"mentionLineColor": "#B04545"}
 }
