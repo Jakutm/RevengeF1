@@ -9,8 +9,6 @@
     ],
 "semanticColors": {
 "EXPRESSION_PICKER_BG": ["#111111"],
-"DISPLAY_BANNER_OVERFLOW_BACKGROUND": ["#111111"],
-"USER_PROFILE_HEADER_OVERFLOW_BACKGROUND": ["#111111"],
 "ANDROID_RIPPLE": ["#A6051A"],
 "BACKGROUND_ACCENT": ["#A6051A"],
 "BACKGROUND_MODIFIER_ACCENT": ["#851624"],
@@ -28,6 +26,7 @@
 "CARD_PRIMARY_BG": ["#161617"],
 "CHANNEL_ICON": ["FFEB00"],
 "DIVIDER_SUBTLE": ["#FFEB00"],
+"HEADER_PRIMARY": ["#111111"],
 "HEADER_SECONDARY": ["#FFFFFF"],
 "INTERACTIVE_ACTIVE": ["#FC9D9D"],
 "INTERACTIVE_NORMAL": ["#FFFFFF"],
@@ -53,11 +52,13 @@
 "PRIMARY_660": "111111",
 "PRIMARY_700": "111111",
 "PLUM_18": "111111"
+"PLUM_20": "111111"
 },
   "background": {
 "blur": 1.0,
 "url": "https://files.catbox.moe/6xaz8a.png",
 "alpha": 1.0
   },
-"spec": 2
+"spec": 2,
+"plus": {"version": 0}
 }
